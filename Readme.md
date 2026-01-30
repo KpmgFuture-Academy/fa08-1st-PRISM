@@ -182,8 +182,8 @@ PRISM AI는 **3단계 구조**로 의사결정을 지원합니다.
 ## 12. Appendix
 
 ### 12.1 WBS / 일정표
-![WBS](docs/images/그림28.png)
 ![WBS](docs/images/그림29.png)
+![WBS](docs/images/그림28.png)
 
 ### 12.2 데이터 설계 (ERP)
 ![ERP 데이터 설계](docs/images/그림30.png)
